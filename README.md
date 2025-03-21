@@ -1,1 +1,2 @@
 # E-Charge
+E-Charge is a smart EV charging station finder application designed to help users locate nearby charging stations with real-time data. It integrates GPS tracking, interactive maps, and API-based data fetching to provide up-to-date station availability, pricing, and navigation assistance. The project focuses on enhancing the accessibility and convenience of EV charging, making sustainable transportation more efficient.
